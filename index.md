@@ -24,3 +24,8 @@ def calc_orthogonal_slope(point1,point2):
    slope = [-y,x]
    return slope
 ```
+
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
